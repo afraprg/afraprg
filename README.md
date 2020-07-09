@@ -1,4 +1,4 @@
 
 ### Hi there 👋
 
-My name is **Mostafa**, I'm a software engineer in Snapp Company.
+My name is **Mostafa**, I'm a software engineer at Snapp Company.
