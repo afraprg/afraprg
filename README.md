@@ -4,8 +4,8 @@ I'm a software engineer and currently living in Tehran (Iran). I started to lear
 
 Skills: Laravel / Golang / Javascript / VueJs
 
-- 📫  How to reach me: afraprg [gmail] 
+- 📫   How to reach me: afraprg [gmail] 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafa-hosseini-05196778/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.linkedin.com/in/mostafa-hosseini-05196778/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.linkedin.com/in/mostafa-hosseini-05196778)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://www.linkedin.com/in/mostafa-hosseini-05196778)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.mostafa.hosseini.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg' alt='keybase' height='40'>](https://keybase.io/afraprg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafa-hosseini-05196778/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mostafa_hosseini71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/moostaaafaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2091063)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.mostafa.hosseini.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg' alt='keybase' height='40'>](https://keybase.io/afraprg)  
 
